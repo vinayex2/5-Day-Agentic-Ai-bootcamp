@@ -1,6 +1,7 @@
 This Capstone Project is part of the 5-Day AI Agents Intensive Course with Google (Nov 10 - 14, 2025) and is open to all participants. The project lets you apply what you’ve learned during the course by building AI agents in one of four tracks: Concierge Agents, Agents for Good, Enterprise Agents or Freestyle. Submissions are due by Dec 1, 2025, 11:59 AM PT, and top projects will win Kaggle swag, social media recognition on Kaggle’s platforms and all participants will receive a Kaggle badge and certificate. 
 
-<img width="1096" height="390" alt="image" src="https://github.com/user-attachments/assets/314f71d2-0e3c-45a0-8b29-0065e9b2ca4d" />
+<img width="1160" height="369" alt="image" src="https://github.com/user-attachments/assets/2301e332-bec7-4f84-b5cb-3a6a8cb4b1e6" />
+
 
 
 Business Analytics teams reach out to the central data hub team to enable their access. Access enablement can take long time as the data hub team needs to coordinate access enablement with multiple teams to ensure just enough data access is enabled for the requestor. keeping duration, security and senstivity in mind.
